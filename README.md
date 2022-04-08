@@ -9,9 +9,8 @@ Metabolic reprogramming is a hallmark of cancer characterized by global changes 
 
 ### Data & Code accessible
 Metabolic and transcript profile in CCLE: https://depmap.org/portal/download/  
-processed file: dat/
+processed file: dat/ (RData in link)
 R code: Can_metabolite_predicted_by_genes.html 
-Supplementary files: fsb222296-sup-0003-dataset.xlsx
 
 
 
